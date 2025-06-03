@@ -18,6 +18,7 @@ The main goal is to identify key insights that help optimize inventory managemen
 
 ## Dashboard
 https://github.com/Aashriya-Pareek/sales_data_analysis/blob/main/dashboard.png
+
 ![dashboard](https://github.com/user-attachments/assets/2b5748e9-11ca-475d-ae64-ca33f6fb817f)
 
 
