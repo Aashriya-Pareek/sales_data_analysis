@@ -27,3 +27,25 @@ https://github.com/Aashriya-Pareek/sales_data_analysis/blob/main/dashboard.png
 - Make sure data is consistent and clean with respect to data type, data format and values used.
 - Create pivot tables according to KPIs.
 - Arrange all pivot tables into one dashboard and apply slicer to make it dynamic.
+
+## Project Insight 
+- Women customers are more likely to buy products compared to men (~65%).
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The adult age group (30-49yrs) is max contributing (~50%) and buys the most products.
+- The maximum number of products customers orders from Amazon, Flipkart etc.
+- More than 90% of the products delivered
+
+## Final conclusion 
+To improve the sales of Vrinda store, a strategic marketing plan focused on women of adult age group residing in Maharashtra, Karnataka and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalised promotions to capture their attention.
+
+
+
+
+
+
+
+
+
+
+
+
